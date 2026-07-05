@@ -1,7 +1,6 @@
 [build]
-  command = "npm install && npm run build:css && hugo --config exampleSite/hugo.toml --contentDir exampleSite/content --gc --minify"
+  command = "hugo --gc --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.161.1"
-  NODE_VERSION = "20"
