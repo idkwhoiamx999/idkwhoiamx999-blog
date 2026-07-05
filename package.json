@@ -10,7 +10,7 @@
     "dev": "bun dev:css & bun dev:server",
     "build:go": "cp exampleSite/go.default.mod exampleSite/go.mod",
     "build:css": "postcss ./assets/app.css -o ./assets/main.css",
-    "build:generate": "hugo --config exampleSite/hugo.toml --contentDir exampleSite/content --gc --minify",
+    "build:generate": "hugo --gc --minify",
     "build": "bun build:go & bun build:css & bun build:generate"
   },
   "devDependencies": {

@@ -1,6 +1,7 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "npm install && npm run build:css && npm run build:generate"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.161.1"
+  NODE_VERSION = "20"
