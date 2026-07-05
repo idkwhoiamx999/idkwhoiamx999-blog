@@ -1,7 +1,7 @@
 baseURL = "https://blog-idkwhoiamx999.netlify.app/"
-title = "Paper"
+title = "idkwhoiamx999"
 author = "Steve Francia"
-copyright = "© 2025, lee.so"
+copyright = "© 2026, idkwhoiamx999"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -16,13 +16,13 @@ theme = "hugo-paper"
 
 [params]
   color = 'linen'
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = 'idkwhoiamx999'
+  github = 'idkwhoiamx999'
+  linkedin = 'yahia-khidour-9254a0256'
 
-avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+avatar = 'https://pfpstack.com/wp-content/uploads/2026/03/Luffy-icon_edit.webp'
+  name = 'Yahia'
+  bio = 'Security Researcher & Developer'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
@@ -41,9 +41,9 @@ avatar = 'nanxiaobei@gmail.com'
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "Website"
+    name = "Website"
+    url = "https://yahiaportfolio.netlify.app/"
     weight = 10
 
 [taxonomies]
