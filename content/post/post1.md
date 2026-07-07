@@ -1,7 +1,7 @@
 +++
 author = "idkwhoiamx999"
 title = "When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study"
-date = "2019-03-09"
+date = "2026-07-06"
 description = "Chain Lead to a Critical Authentication Finding: A Real-World Case Study"
 tags = [
     "markdown",
