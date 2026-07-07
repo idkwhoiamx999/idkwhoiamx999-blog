@@ -134,7 +134,7 @@ Once I had a list of potential login endpoints, I tested each authentication por
 At this point, I had gathered everything I needed. It was time to document my findings, write the report, and submit it to the security team.
 
 
-<img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*McB2hI75sOM7gMXR3_zc7g.jpeg' alt='sss'>
+<img src='https://raw.githubusercontent.com/idkwhoiamx999/idkwhoiamx999-blog/refs/heads/main/images/post1/imagepost1.png' alt='firstImage'>
 
 
 > #### The reporte get triaged very fast it was my favorite programe <3
@@ -143,7 +143,7 @@ At this point, I had gathered everything I needed. It was time to document my fi
 The report was initially classified as **Medium** severity. Based on my findings and the potential impact, I believed the issue warranted a higher severity rating, so I continued analyzing the authentication flow and discussing the findings with the security team.
 
 
-<img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*McB2hI75sOM7gMXR3_zc7g.jpeg' alt='sss'>
+<img src='https://raw.githubusercontent.com/idkwhoiamx999/idkwhoiamx999-blog/refs/heads/main/images/post1/imagepost11.png' alt='secondeImage'>
 
 
 So, I decided to dig even deeper. I had a feeling there was more to uncover, so I continued searching for additional endpoints. After testing a few more authentication portals, I finally came across another vulnerable endpoint.
@@ -157,7 +157,7 @@ And there it was — a vulnerable endpoint. I immediately updated my report with
 
 
 
-<img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*McB2hI75sOM7gMXR3_zc7g.jpeg' alt='sss'>
+<img src='https://raw.githubusercontent.com/idkwhoiamx999/idkwhoiamx999-blog/refs/heads/main/images/post1/imagepost111.png' alt='thirdImage'>
 
 
 > ### Finaly ❤
